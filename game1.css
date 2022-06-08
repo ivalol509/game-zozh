@@ -1,0 +1,150 @@
+.osnova2{
+	background-image: url("img/loc/image 7.svg");
+	background-size: 100%;
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+	top: 0;
+	opacity: 0;
+	transition: 1s;
+}
+.fs3{
+	font-size: 19px;
+}
+.okno{
+	height: 23vh;
+	width: 100vw;
+	position: absolute;
+	top: 66vh;
+}
+.okno2{
+	background: rgba(0, 0, 0, 0.7);
+	height: 23vh;
+	width: 70vw;
+	position: absolute;
+	left: 15vw;
+	border-radius: 6px;
+	border: 1px white solid;
+	color: white;
+	text-align: center;
+}
+
+.otvet{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 42vw;	
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+.otvet1{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 17vh;
+	left: 4.5vw;	
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+.dn{
+	display: none;
+}
+
+.dimka{
+	background: rgba(0, 0, 0, 0.7);
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	transition: 1s;
+}
+.vspl{
+	background: #FFFFFF;
+	height: 26vh;
+	width: 26vw;
+	position: absolute;
+	top: -50vh;
+	left: 37.5vw;
+	display: none;
+	border-radius: 6px;
+}
+.input{
+	width: 26vw;
+	margin-top: 3vh;
+	margin-left: 1.5vw;
+	border: 0; 
+	border-bottom: 2px solid rgba(19, 167, 122, 1); 
+	outline: none;
+	text-align: center;
+}
+
+.otvet3{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 34.5vw;	
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+.otvet4{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 53vw;
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+
+.otvet_1{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 24.75vw;
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+.otvet_2{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 43.25vw;
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
+.otvet_3{
+	background: rgba(19, 167, 122, 1);
+	height: 6vh;
+	width: 16.5vw;
+	position: absolute;
+	top: 90vh;
+	left: 61.75vw;
+	border: none;
+	border-radius: 6px;
+	color: white;
+	transition: 1s;
+}
